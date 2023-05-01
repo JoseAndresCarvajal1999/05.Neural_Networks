@@ -1,2 +1,3 @@
 # 05.Neural_Networks
-A neural network is created from scratch in order to analyze the distribution of its layers as the epochs pass using structured data. 
+
+We implemented a neural network from scratch, which can be adapted to any sequential architecture, in such a way that the behavior of local gradients in each of the layers can be analyzed, so that strategies can be devised to avoid network overfiting. 
